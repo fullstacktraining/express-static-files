@@ -1,6 +1,6 @@
 # express-static-files
 
-This repo contains the code for our post [Serve static files with Express](http://www.fullstacktraining.com/articles).
+This repo contains the code for our post [Serve static files with Express](http://www.fullstacktraining.com/articles/how-to-serve-static-files-with-express).
 
 The post covers how to set up Express to deliver static files to the browser - we're talking HTML, JavaScript, CSS and images.
 
