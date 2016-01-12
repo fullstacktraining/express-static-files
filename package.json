@@ -1,0 +1,27 @@
+{
+  "name": "express-static-files",
+  "version": "1.0.0",
+  "description": "Configure Express to serve static files",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullstacktraining/express-static-files.git"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "MEAN"
+  ],
+  "author": "Full Stack Training",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fullstacktraining/express-static-files/issues"
+  },
+  "homepage": "https://github.com/fullstacktraining/express-static-files#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
